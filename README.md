@@ -1,3 +1,3 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+William+Lu!" alt="Typing SVG" /><hr>
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://user-images.githubusercontent.com/8391493/205162876-565ca6f5-391f-4167-9752-5aa737dc4b72.gif"/>
+	src="https://www.bing.com/th/id/OGC.03a4a5f034bf0bafa661fd8a8aabedc8?pid=1.7&rurl=https%3a%2f%2fmedia0.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&ehk=0WFoNJZvf2nBGDXdzjWoT5v9NZ6w0dFrsLnAce6f9rM%3d"/>
