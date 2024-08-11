@@ -16,5 +16,4 @@
 - Software: MatLab, LabVIEW, SolidWorks, ANSYS, PSpice, ImageJ, MS Word, Excel, PowerPoint, Project, Arduino IDE, and Visual Studio
 - Hardware: Arduino, Particle Photon, Sony Spresense, ESP32, ESP8266, and Raspberry Pi
 - Programming Languages: C++, Python, Java, and MatLab
-- Others: Good verbal and written communication skills, 3D printing, assembling, troubleshooting, validation and documentation, FEA and failure analysis, technical
-writing
+- Others: 3D printing, assembling, validation and documentation, FEA and failure analysis, technical writing
