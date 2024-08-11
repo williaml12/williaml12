@@ -6,3 +6,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-luwei2359@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luwei2359@gmail.com)](mailto:luwei2359@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://williamlu.streamlit.app/)
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 👨‍🎓 &nbsp; A motivated student at NYU Tandon Bridge Program.
+- 🌱 &nbsp; I’m learning about **`Computer Vision`** , **`Machine Learning`** and **`Generative AI`**.
+- 👨‍💻 &nbsp; I am a **`sales`** intern at **`Codtecs`** company in Karachi Pakistan.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
