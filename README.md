@@ -14,3 +14,10 @@
 - My career goal is to emerge in AI and biotechnologies to drive meaningful innovation and create solutions that positively impact society.
 - You can find more information about me on my AI portfolio website, including my work experience, skills, interests, and projects.
 
+## SKILLS
+- Software: MatLab, LabVIEW, SolidWorks, ANSYS, PSpice, ImageJ, MS Word, Excel, PowerPoint, Project, Arduino IDE, and Visual Studio
+- Hardware: Arduino, Particle Photon, Sony Spresense, ESP32, ESP8266, and Raspberry Pi
+- Programming Languages: C++, C, Python, Java, and MatLab
+- Languages: Chinese (Native), and Spanish (Elementary Proficiency, basic, entry-level)
+- Others: Good verbal and written communication skills, 3D printing, assembling, troubleshooting, validation and documentation, FEA and failure analysis, technical
+writing
