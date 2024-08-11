@@ -7,7 +7,7 @@
 
 🎯 Portfolio website: [Portfolio](https://williamlu.streamlit.app/)
 
-<h3> 👨🏻‍💻 About Me </h3>
+## 👨🏻‍💻 About Me 
 
 - I'm a motivated student at NYU Tandon Bridge Program with experience in product design and development, CAD modeling, assembling, QA testing, computer vision, machine learning object detection, and data analysis.
 - I'm particularly interested in exploring opportunities in medical imaging, medical technology, computer vision, IoT solutions, robotics, and AI.
