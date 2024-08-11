@@ -9,9 +9,5 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨‍🎓 &nbsp; A motivated student at NYU Tandon Bridge Program.
-- 🌱 &nbsp; I’m learning about **`Computer Vision`** , **`Machine Learning`** and **`Generative AI`**.
-- 👨‍💻 &nbsp; I am a **`sales`** intern at **`Codtecs`** company in Karachi Pakistan.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
+I'm a motivated student at NYU Tandon Bridge Program with experience in product design and development, CAD modeling, assembling, QA testing, computer vision, machine learning object detection, and data analysis. I'm particularly interested in exploring opportunities in medical imaging, medical technology, computer vision, IoT solutions, robotics, and AI. My career goal is to emerge in AI and biotechnologies to drive meaningful innovation and create solutions that positively impact society.
+You can find more information about me on my AI portfolio website, including my work experience, skills, interests, and projects. I'm also active on GitHub, Hackster.io, and LinkedIn. If you'd like to connect, feel free to reach out to me via email or LinkedIn.
