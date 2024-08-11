@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am William Lu
 
 --
 **williaml12/williaml12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
