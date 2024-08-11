@@ -13,6 +13,7 @@
 - I'm particularly interested in exploring opportunities in medical imaging, medical technology, computer vision, IoT solutions, robotics, and AI.
 - My career goal is to emerge in AI and biotechnologies to drive meaningful innovation and create solutions that positively impact society.
 - 🎯 Portfolio website: [Portfolio](https://williamlu.streamlit.app/)
+- ⚡ Fun fact: To learn is to change.🤓
 
 ## 💻 Technologies and Tools
 - Software: MatLab, LabVIEW, SolidWorks, ANSYS, PSpice, ImageJ, MS Word, Excel, PowerPoint, Project, Arduino IDE, and Visual Studio
