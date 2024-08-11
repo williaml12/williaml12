@@ -13,4 +13,4 @@
 - I'm particularly interested in exploring opportunities in medical imaging, medical technology, computer vision, IoT solutions, robotics, and AI.
 - My career goal is to emerge in AI and biotechnologies to drive meaningful innovation and create solutions that positively impact society.
 - You can find more information about me onmy AI portfolio website, including my work experience, skills, interests, and projects.
-- I'm also active on GitHub, Hackster.io, and LinkedIn. If you'd like to connect, feel free to reach out to me via email or LinkedIn.
+
