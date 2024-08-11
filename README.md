@@ -5,14 +5,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-William_Lu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-lu-47693b145/)](https://www.linkedin.com/in/william-lu-47693b145/)
 [![Gmail Badge](https://img.shields.io/badge/-luwei2359@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luwei2359@gmail.com)](mailto:luwei2359@gmail.com) 
 
-🎯 Portfolio website: [Portfolio](https://williamlu.streamlit.app/)
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - I'm a motivated student at NYU Tandon Bridge Program with experience in product design and development, CAD modeling, assembling, QA testing, computer vision, machine learning object detection, and data analysis.
 - I'm particularly interested in exploring opportunities in medical imaging, medical technology, computer vision, IoT solutions, robotics, and AI.
 - My career goal is to emerge in AI and biotechnologies to drive meaningful innovation and create solutions that positively impact society.
-- You can find more information about me on my AI portfolio website, including my work experience, skills, interests, and projects.
+- 🎯 Portfolio website: [Portfolio](https://williamlu.streamlit.app/)
 
 ## 💻 Technologies and Tools
 - Software: MatLab, LabVIEW, SolidWorks, ANSYS, PSpice, ImageJ, MS Word, Excel, PowerPoint, Project, Arduino IDE, and Visual Studio
