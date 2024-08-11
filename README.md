@@ -12,5 +12,5 @@
 - I'm a motivated student at NYU Tandon Bridge Program with experience in product design and development, CAD modeling, assembling, QA testing, computer vision, machine learning object detection, and data analysis.
 - I'm particularly interested in exploring opportunities in medical imaging, medical technology, computer vision, IoT solutions, robotics, and AI.
 - My career goal is to emerge in AI and biotechnologies to drive meaningful innovation and create solutions that positively impact society.
-- You can find more information about me onmy AI portfolio website, including my work experience, skills, interests, and projects.
+- You can find more information about me on my AI portfolio website, including my work experience, skills, interests, and projects.
 
