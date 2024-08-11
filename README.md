@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-William_Lu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-lu-47693b145/)](https://www.linkedin.com/in/william-lu-47693b145/)
 [![Gmail Badge](https://img.shields.io/badge/-luwei2359@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luwei2359@gmail.com)](mailto:luwei2359@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://williamlu.streamlit.app/)
+🎯 Portfolio website: [Portfolio](https://williamlu.streamlit.app/)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
